@@ -23,7 +23,7 @@ The Cooked Recipe app is a mobile app designed to help users find various food r
 
 - **Food Recipes:** Provides a variety of food recipes complete with instructions and necessary ingredients.
 - **Cooking Tips:** Contains various tips and tricks to help users in the cooking process.
-- **User Profiles:** Users can view and edit their profiles and find the logout button to log out of the application.
+- **User Profiles:** Users can view profiles and find the logout button to log out of the application.
 - **Recipe Search:** In the topic section, there is a search button in the appbar that allows users to search for food recipes based on keywords.
 
 ## Main Features
@@ -36,7 +36,6 @@ The Cooked Recipe app is a mobile app designed to help users find various food r
 - Practical tips for cooking more efficiently and effectively.
 
 ### User Profile
-- Profile page with options for editing user information.
 - Logout button to log out of the application.
 
 ### Recipe Search
